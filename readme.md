@@ -1,1 +1,1 @@
-testing various codes for making a computational sperm
+testing various codes from Schoeller_2020
