@@ -1,2 +1,2 @@
-Consider normalising the Gaussian envelope since we're using the truncated version. 
-The non-normalised version consistently gives about 0.2% error.
+Correction for random force-field: It's power spectrum, not energy spectrum
+Edit my fcm_spread function such that it returns fourier space force-field instead
