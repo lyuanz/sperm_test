@@ -1,2 +1,1 @@
-Correction for random force-field: It's power spectrum, not energy spectrum
-Edit my fcm_spread function such that it returns fourier space force-field instead
+Check if the Jacobian of residual_function is nearly singular. If it is, change the equations making up f(X)=0
